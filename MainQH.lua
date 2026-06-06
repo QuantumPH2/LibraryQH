@@ -3,7 +3,7 @@ local ConfigMap = {
         url = "https://raw.githubusercontent.com/QuantumPH2/Library/refs/heads/main/Fish%20it"
     },
     [93978595733734] = {
-        url = "https://pastefy.app/F0AvOIIh/raw"
+        url = "https://raw.githubusercontent.com/QuantumPH2/ViolenceDistrict/refs/heads/main/VD.lua"
     },
     [126884695634066] = {
         url = "https://raw.githubusercontent.com/zerotheking152-png/QuantumGAG/main/QHCommunity.lua"
