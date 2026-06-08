@@ -1,4 +1,7 @@
 local ConfigMap = {
+    [92416421522960] = {
+        url = "https://raw.githubusercontent.com/QuantumPH2/SlimeRNG/refs/heads/main/.lua"
+    },
     [121864768012064] = {
         url = "https://raw.githubusercontent.com/QuantumPH2/Library/refs/heads/main/Fish%20it"
     },
