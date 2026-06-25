@@ -14,7 +14,7 @@ local ConfigMap = {
     [83369512629707] = {
         url = "https://raw.githubusercontent.com/zerotheking152-png/QuantumSAWAH/refs/heads/main/Community.lua"
     },
-    [70411440483149] = {
+    [139802517550914] = {
         url = "https://raw.githubusercontent.com/QuantumPH2/100NIGHT/refs/heads/main/99NIGHTATSEA.lua"
     }
 }
