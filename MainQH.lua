@@ -16,7 +16,7 @@ local ConfigMap = {
     },
     [139802517550914] = {
         url = "https://raw.githubusercontent.com/QuantumPH2/100NIGHT/refs/heads/main/99NIGHTATSEA.lua"
-    }
+    },
 }
 
 local config = ConfigMap[game.PlaceId]
