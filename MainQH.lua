@@ -3,7 +3,7 @@ local ConfigMap = {
         url = "https://raw.githubusercontent.com/QuantumPH2/SlimeRNG/refs/heads/main/.lua"
     },
     [121864768012064] = {
-        url = "https://raw.githubusercontent.com/QuantumPH2/Library/refs/heads/main/Fish%20it"
+        url = "https://raw.githubusercontent.com/QuantumPH2/FishItQH/refs/heads/main/.lua"
     },
     [93978595733734] = {
         url = "https://raw.githubusercontent.com/QuantumPH2/ViolenceDistrict/refs/heads/main/VD.lua"
